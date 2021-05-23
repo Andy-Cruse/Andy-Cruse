@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andy-Cruse
-- 👀 I’m interested in software engineering, API backend processes, data collection/storage, machine learning
+- 👀 I’m interested in software engineering, API, data collection/storage, machine learning
 - 🌱 I’m currently learning Javascript, Node.js, Python, and SQL
 - 💞️ I’m looking to collaborate on anything relating to the entertainment industry such as music and videogames
 - 📫 How to reach me: andrew.wcruse@gmail.com or https://www.linkedin.com/in/william-cruse-4b045ab6/
